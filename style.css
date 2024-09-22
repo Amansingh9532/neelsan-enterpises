@@ -6,6 +6,18 @@ body {
     box-sizing: border-box;
     align-items: center;
 }
+#switch{
+    font-size: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#gst{
+    font-size: 22px;
+    color: rgb(4, 20, 190);
+}
+#payment{
+    text-align: center;
+    
+}
 
 .container {
     max-width: 600px;
